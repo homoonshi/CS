@@ -1,7 +1,13 @@
 # CS
 ### Database
+- [[Database] Deadlock](https://github.com/homoonshi/CS/blob/main/Database/Deadlock.md)
+- [[Database] Index](https://github.com/homoonshi/CS/blob/main/Database/Index.md)
+- [[Database] Join](https://github.com/homoonshi/CS/blob/main/Database/Join.md)
+- [[Database] Partitioning과 Sharding](https://github.com/homoonshi/CS/blob/main/Database/Partitioning%EA%B3%BC%20Sharding.md)
 - [[Database] RDBMS vs NoSQL](https://github.com/homoonshi/CS/blob/main/Database/RDBMS%20vs%20NoSQL.md)
+- [[Database] RDBMS](https://github.com/homoonshi/CS/blob/main/Database/RDBMS.md)
 - [[Database] Transaction (트랜잭션)](https://github.com/homoonshi/CS/blob/main/Database/Transaction(%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98).md)
+- [[Database] View](https://github.com/homoonshi/CS/blob/main/Database/View.md)
 - [[Database] 정규화](https://github.com/homoonshi/CS/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94.md)
 
 ### Web
