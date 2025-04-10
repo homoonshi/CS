@@ -8,6 +8,7 @@
 - [[Database] RDBMS](https://github.com/homoonshi/CS/blob/main/Database/RDBMS.md)
 - [[Database] Transaction (트랜잭션)](https://github.com/homoonshi/CS/blob/main/Database/Transaction(%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98).md)
 - [[Database] View](https://github.com/homoonshi/CS/blob/main/Database/View.md)
+- [[Database] 공유락&배타락&낙관적 락](https://github.com/homoonshi/CS/blob/main/Database/%EA%B3%B5%EC%9C%A0%EB%9D%BD%26%EB%B0%B0%ED%83%80%EB%9D%BD%26%EB%82%99%EA%B4%80%EC%A0%81%EB%9D%BD.md)
 - [[Database] 정규화](https://github.com/homoonshi/CS/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94.md)
 
 ### Web
