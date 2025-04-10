@@ -42,7 +42,7 @@
 
 ### Software Architecture
 - [[Software Architecutre] 객체지향](https://github.com/homoonshi/CS/blob/main/Software%20Architecture/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
-##### Design Pattern
+#### Design Pattern
 - [[DesignPattern] Abstract Factory](https://github.com/homoonshi/CS/blob/main/Software%20Architecture/Design%20Pattern/Abstract%20Factory.md)
 - [[DesignPattern] Adapter](https://github.com/homoonshi/CS/blob/main/Software%20Architecture/Design%20Pattern/Adapter.md)
 - [[DesignPattern] Bridge](https://github.com/homoonshi/CS/blob/main/Software%20Architecture/Design%20Pattern/Bridge.md)
