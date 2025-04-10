@@ -42,6 +42,7 @@
 - [[JavaScript] 모듈화](https://github.com/homoonshi/CS/blob/main/JavaScript/%EB%AA%A8%EB%93%88%ED%99%94.md)
 
 ### Software Architecture
+- [[Software Architecture] AOP](https://github.com/homoonshi/CS/blob/main/Software%20Architecture/AOP.md)
 - [[Software Architecutre] 객체지향](https://github.com/homoonshi/CS/blob/main/Software%20Architecture/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
 #### Design Pattern
 - [[DesignPattern] Abstract Factory](https://github.com/homoonshi/CS/blob/main/Software%20Architecture/Design%20Pattern/Abstract%20Factory.md)
